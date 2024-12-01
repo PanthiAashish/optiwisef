@@ -18,6 +18,9 @@ export default function Home() {
         <p className="mb-6 text-gray-500">Join OptiWise</p>
         <AuthButton />
       </div>
+
+      {/* Test */}
+      <p className="text-red-50">Red</p>
     </div>
   );
 }
