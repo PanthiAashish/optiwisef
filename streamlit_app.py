@@ -49,7 +49,7 @@ st.markdown(
     }
     </style>
     <div class="top-bar">
-        <a class="portfolio-link" href="https://your-portfolio-link.com" target="_blank">Portfolio</a>
+        <a class="portfolio-link" href="http://localhost:3000/portfolio" target="_blank">Portfolio</a>
     </div>
     """,
     unsafe_allow_html=True
